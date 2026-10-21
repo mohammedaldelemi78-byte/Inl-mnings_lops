@@ -1,0 +1,15 @@
+C:\Users\moal09001\Downloads\ht programering\Uppgift 4.9\Uppgift 4.9\bin\Debug\net10.0\Uppgift 4.9.exe
+C:\Users\moal09001\Downloads\ht programering\Uppgift 4.9\Uppgift 4.9\bin\Debug\net10.0\Uppgift 4.9.deps.json
+C:\Users\moal09001\Downloads\ht programering\Uppgift 4.9\Uppgift 4.9\bin\Debug\net10.0\Uppgift 4.9.runtimeconfig.json
+C:\Users\moal09001\Downloads\ht programering\Uppgift 4.9\Uppgift 4.9\bin\Debug\net10.0\Uppgift 4.9.dll
+C:\Users\moal09001\Downloads\ht programering\Uppgift 4.9\Uppgift 4.9\bin\Debug\net10.0\Uppgift 4.9.pdb
+C:\Users\moal09001\Downloads\ht programering\Uppgift 4.9\Uppgift 4.9\obj\Debug\net10.0\Uppgift 4.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moal09001\Downloads\ht programering\Uppgift 4.9\Uppgift 4.9\obj\Debug\net10.0\Uppgift 4.9.AssemblyInfoInputs.cache
+C:\Users\moal09001\Downloads\ht programering\Uppgift 4.9\Uppgift 4.9\obj\Debug\net10.0\Uppgift 4.9.AssemblyInfo.cs
+C:\Users\moal09001\Downloads\ht programering\Uppgift 4.9\Uppgift 4.9\obj\Debug\net10.0\Uppgift 4.9.csproj.CoreCompileInputs.cache
+C:\Users\moal09001\Downloads\ht programering\Uppgift 4.9\Uppgift 4.9\obj\Debug\net10.0\Uppgift 4.9.dll
+C:\Users\moal09001\Downloads\ht programering\Uppgift 4.9\Uppgift 4.9\obj\Debug\net10.0\refint\Uppgift 4.9.dll
+C:\Users\moal09001\Downloads\ht programering\Uppgift 4.9\Uppgift 4.9\obj\Debug\net10.0\Uppgift 4.9.pdb
+C:\Users\moal09001\Downloads\ht programering\Uppgift 4.9\Uppgift 4.9\obj\Debug\net10.0\Uppgift 4.9.genruntimeconfig.cache
+C:\Users\moal09001\Downloads\ht programering\Uppgift 4.9\Uppgift 4.9\obj\Debug\net10.0\ref\Uppgift 4.9.dll
+C:\Users\moal09001\Downloads\ht programering\Uppgift 4.9\Uppgift 4.9\obj\Debug\net10.0\Uppgift .007321C4.Up2Date

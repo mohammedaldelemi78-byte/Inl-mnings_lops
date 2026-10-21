@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moal09001\\Downloads\\ht programering\\Uppgift 4.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CDAF487-CDC0-F217-53CA-A7F04ACF78D8}|Uppgift 4.3\\Uppgift 4.3.csproj|c:\\users\\moal09001\\downloads\\ht programering\\uppgift 4.3\\uppgift 4.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CDAF487-CDC0-F217-53CA-A7F04ACF78D8}|Uppgift 4.3\\Uppgift 4.3.csproj|solutionrelative:uppgift 4.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moal09001\\Downloads\\ht programering\\Uppgift 4.3\\Uppgift 4.3\\Program.cs",
+              "RelativeDocumentMoniker": "Uppgift 4.3\\Program.cs",
+              "ToolTip": "C:\\Users\\moal09001\\Downloads\\ht programering\\Uppgift 4.3\\Uppgift 4.3\\Program.cs",
+              "RelativeToolTip": "Uppgift 4.3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T11:51:57.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
